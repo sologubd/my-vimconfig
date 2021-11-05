@@ -1,7 +1,6 @@
 # my-vimconfig
 Vim configuration
 
-
 ### Requirements
 [Vim-Plug](https://github.com/junegunn/vim-plug)
 
