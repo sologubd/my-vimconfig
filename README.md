@@ -1,5 +1,4 @@
-# my-vimconfig
-Vim configuration
+# Vim configuration file
 
 ### Requirements
 [Vim-Plug](https://github.com/junegunn/vim-plug)
