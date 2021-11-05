@@ -2,8 +2,7 @@
 Vim configuration
 
 ### Requirements
-[Vim-Plug]
-(https://github.com/junegunn/vim-plug)
+[Vim-Plug](https://github.com/junegunn/vim-plug)
 
 [Solorized Colorscheme]
 (https://github.com/altercation/vim-colors-solarized)
